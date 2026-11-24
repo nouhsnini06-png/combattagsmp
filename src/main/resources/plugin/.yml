@@ -1,0 +1,6 @@
+name: CombatTagSMP
+version: 1.0.0
+main: me.nouh.combattag.CombatTagPlugin
+api-version: 1.20
+author: nouh2011
+description: Simple and lightweight CombatTag plugin for SMP servers.
